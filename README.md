@@ -1,4 +1,4 @@
-[](https://upload.wikimedia.org/wikipedia/commons/5/56/OYO_Rooms_Logo.jpg)
+![OYO LOGO](https://upload.wikimedia.org/wikipedia/commons/5/56/OYO_Rooms_Logo.jpg)
 Power BI Dashboard: OYO Company Data Analysis
 
 This Power BI dashboard provides an in-depth analysis of data from OYO, offering valuable insights into various aspects of the company's operations. The dashboard includes:
